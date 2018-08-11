@@ -1,0 +1,24 @@
+ [
+   {
+    "name": "Ayushi Rathore",
+    "empId": 1331111,
+    "image": "../../assets/w8.jpg", 
+    "role" : "Developer", 
+    "location": "Indore" ,
+    "contactDetails": 8888656223 , 
+    "project" : "TI" , 
+    "iou" :"TI" , 
+    "supervisor" : "Pooja"
+   },
+   {
+   "name": "Anuj",
+    "empId": 1331112,
+    "image": "../../assets/w4.jpg", 
+    "role" : "Developer", 
+    "location": "Indore" ,
+    "contactDetails": 9987656789, 
+    "project" : "TI" , 
+    "iou" :"TI" , 
+    "supervisor" : "Pooja"
+    }
+  ]
